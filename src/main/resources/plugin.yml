@@ -1,0 +1,10 @@
+name: Pl3xMap-SuperVanish
+version: ${project.version}
+main: net.pl3x.map.supervanish.Pl3xMapSuperVanish
+api-version: 1.16
+authors: [ BillyGalbreath ]
+description: SuperVanish addon for Pl3xMap
+softdepend:
+  - Pl3xMap
+  - SuperVanish
+  - PremiumVanish
